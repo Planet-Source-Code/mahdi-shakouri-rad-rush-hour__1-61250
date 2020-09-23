@@ -1,0 +1,11 @@
+Rush Hour is a logical game ... a nice ones, that's all !!!
+The purpose of the game is to bring out the Red Tile, 
+You are able to move each Tile in straight line.
+The game has 40 standard levels.
+... Enjoy ...
+
+
+Mahdi Shakouri Rad    Mahdi.ShakouriRad@gmail.com  Mahdi_Rad@yahoo.com
+
+ps. I've uploaded in www.planetSourceCOde.com another user-friendly of this game
+    named "Rush Hour", check it too :-) 
